@@ -3,7 +3,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 [Visit Now](https://flipkartweb-mern.vercel.app) 🚀
 
-## 🖥️ Tech Stack
+## 🖥️ Technologies Used
 **Frontend:**
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
